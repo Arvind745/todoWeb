@@ -1,0 +1,82 @@
+.upper-container{
+    margin: auto;
+}
+
+
+
+.heading{
+    text-align: center;
+}
+.back{
+   width: 50%;
+   height: 10%;
+   margin: auto;
+   position: relative; 
+   margin-top: 50px; 
+   box-sizing: border-box;
+padding-left: 020%;   
+}
+.back-text{
+    position: absolute;
+    font-size: 20px;
+    width: 80%;
+    height: 100%;
+    left: 6%;
+   margin:0px;
+padding-left: 40%;
+    top: 0;
+    font-weight: bold;
+    opacity: 1;
+    padding-top: 10px;
+
+}
+.card{
+    border: 1.5px solid rgb(22, 22, 22);
+    height: 40vh;
+    width: 20%;
+    padding-top: 10px;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px grey;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.div1{
+    position: absolute;
+    top: 15px;
+    font-size: 25px;
+    right: 0;
+    width: 75%;
+    text-align: left;
+    height: 20%;
+    color: blue;
+    border-bottom: 1px solid black;
+}
+.div2{
+    width: 75%;
+    height: 10%;
+    font-size: 20px;
+    color: blueviolet;
+    text-align: right;
+    position: absolute;
+    top: 30%;
+    right: 33%;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.div3{
+    width: 75%;
+    height: 10%;
+    position: absolute;
+    top: 52%;
+    text-align: left;
+    font-size: 18px;
+    left: 10%;
+}
+.plus{
+    position: absolute;
+right: 5px;
+    bottom: 5px;
+}
